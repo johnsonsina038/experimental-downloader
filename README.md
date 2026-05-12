@@ -1,6 +1,7 @@
 # 📥 Wget Download Links
-Generated on: Mon May 11 18:53:21 UTC 2026
+Generated on: Tue May 12 20:48:57 UTC 2026
 
+- [Download Neil_Strauss,_Neil_Strauss_-_The_Game__Penetrating_the_Secret_Society_of_Pickup_Artists_(2010,_HarperAudio)_-_libgen.li.mobi.zip](https://github.com/johnsonsina038/experimental-downloader/raw/wget/wget/Neil_Strauss%2C_Neil_Strauss_-_The_Game__Penetrating_the_Secret_Society_of_Pickup_Artists_%282010%2C_HarperAudio%29_-_libgen.li.mobi.zip)
 - [Download Pace,_Michael_-_Dark_Psychology_202__The_Advance_Secrets_Of_Psychological_Warfare,_Dark_NLP,_Dark_Cognitive_Behavioral_Therapy,_Super_Manipulat_(2017,_Make_Profits_Easy_LLC)_-_libgen.li.epub.zip](https://github.com/johnsonsina038/experimental-downloader/raw/wget/wget/Pace%2C_Michael_-_Dark_Psychology_202__The_Advance_Secrets_Of_Psychological_Warfare%2C_Dark_NLP%2C_Dark_Cognitive_Behavioral_Therapy%2C_Super_Manipulat_%282017%2C_Make_Profits_Easy_LLC%29_-_libgen.li.epub.zip)
 - [Download Pickup_Artists_Anonymous_-_COVERT_SEDUCTION_Secrets_Explained__Powerful_Psychological_Techniques_Based_on_NEURO_LINGUISTIC_PROGRAMMING_(2014)_-_libgen.li.mobi.zip](https://github.com/johnsonsina038/experimental-downloader/raw/wget/wget/Pickup_Artists_Anonymous_-_COVERT_SEDUCTION_Secrets_Explained__Powerful_Psychological_Techniques_Based_on_NEURO_LINGUISTIC_PROGRAMMING_%282014%29_-_libgen.li.mobi.zip)
 - [Download The-48-Laws-Of-Power.pdf.zip](https://github.com/johnsonsina038/experimental-downloader/raw/wget/wget/The-48-Laws-Of-Power.pdf.zip)
